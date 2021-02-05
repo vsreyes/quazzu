@@ -52,6 +52,7 @@
 .section-podcast .primary-overlay {
   background: rgba(112, 81, 176, 0.9);
 }
+
 @media (max-width: 500px) {
   .section-developers,
   .section-podcast {
